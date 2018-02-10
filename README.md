@@ -5,3 +5,4 @@ Change X <br />
 Rebase 1
 Rebase 2
 Conflicting change
+Conflicting change 2
