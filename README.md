@@ -5,3 +5,4 @@ Change X <br />
 Rebase 1 <br />
 Rebase 2 <br />
 Rebase newBranch2 test 1<br />
+Newline on Branch3
